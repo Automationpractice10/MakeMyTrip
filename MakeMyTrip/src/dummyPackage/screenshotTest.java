@@ -13,7 +13,7 @@ import org.testng.ITestResult;
 
 import genericLib.Base;
 
-public class ScreenshotTest implements ITestListener
+public class screenshotTest implements ITestListener
 {
 
 	@Override
