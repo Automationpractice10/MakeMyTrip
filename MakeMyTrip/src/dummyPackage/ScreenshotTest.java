@@ -17,7 +17,7 @@ public class ScreenshotTest implements ITestListener
 {
 
 	@Override
-	public void onFinish(ITestContext arg0) {
+	public void onFinish(ITestContext arg_0) {
 		// TODO Auto-generated method stub
 		
 	}
